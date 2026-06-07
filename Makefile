@@ -1,4 +1,4 @@
-ZIP_FILE := netnoot.chrome.zip
+ZIP_FILE := netnook.chrome.zip
 SRC_DIR := extension
 
 all: $(ZIP_FILE)
