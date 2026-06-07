@@ -1,0 +1,5 @@
+# Ignore packed extensions
+*.zip
+
+# Ignore Screenshor originals
+/media/originals/*.png
